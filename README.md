@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel santos
+## Olá! Eu sou o Daniel Santos
 
 -📱Hoje trabalho como tecnico de celulares
 

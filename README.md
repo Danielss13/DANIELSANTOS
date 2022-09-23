@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines= Futuro FullStack%20;Desenvolvimento WebJava-PROA%20%20;%20Cursando-ADS;%20Faça%20Vc a%20Diferença&font=Fira%20Code&center=true&width=440&height=45&color=00a896&vCenter=true&size=25&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines= Futuro Full Stack%20;Desenvolvimento WebJava-PROA%20%20;%20Cursando-ADS;%20Faça%20Vc a%20Diferença&font=Fira%20Code&center=true&width=440&height=45&color=00a896&vCenter=true&size=25&pause=1000"></a>
 </p>
 
 -📱Hoje trabalho como tecnico de celulares

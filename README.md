@@ -17,11 +17,11 @@
 
 -👨‍🎓 Cursando Desenvolvimento WebJava - PROA
   
-  <div align="center">
-  <a href="https://github.com/Danielss13">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Danielss13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielss13&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danielss13&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danielss13&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danielss13&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danielss13&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Danielss13&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 <h2 align="center">Linguagens que mais Utilizo💻👨‍💻</h2>
 <div style="display: inline_block"><br>

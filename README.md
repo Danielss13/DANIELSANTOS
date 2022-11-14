@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel dos Santos
+<h2> Olá! Eu sou o Daniel dos Santos 👨‍💻 </h2>
 
 <h3 align="center">
   <img src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif" width="150">
@@ -6,29 +6,17 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines= Futuro Front End👨‍💻🖼️%20;Desenvolvimento WebJava-PROA%20%20;%20Cursando-ADS;%20Faça%20Vc a%20Diferença&font=Fira%20Code&center=true&width=440&height=45&color=00a896&vCenter=true&size=25&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines= Desenvolvedor Front End👨‍💻🖼️%20;Desenvolvimento WebJava-PROA%20%20;%20Cursando-ADS;%20Faça%20Vc a%20Diferença&font=Fira%20Code&center=true&width=440&height=45&color=00a896&vCenter=true&size=25&pause=1000"></a>
 </p>
 
 ##
 <h2>Minhas redes sociais💻👨‍💻</h2>
-<div> 
-  <a href="https://instagram.com/_danielssantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href=https://img.shields.io/badge/-Facebook-blue?style=for-the-badge &logo =Facebook &logoColor =white &link =https://github.com/Danielss13)] ("https://www.facebook.com/seixasqlc/)
-  <a href = "mailto:louco4866@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-santos-9a8631247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-# Hi, I'm Arthur 👨🏻‍💻 - @guiadevbrasil
-
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/seixasqlc/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/arthurspk/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arthurguiadev)
-
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/Danielss13)](https://www.facebook.com//danielsantos/)
+<a href = "mailto:louco4866@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Danielss13)](https://instagram.com/_danielssantos")
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Danielss13)](https://www.linkedin.com/in/daniel-santos-9a8631247)
 </h4>
 
 

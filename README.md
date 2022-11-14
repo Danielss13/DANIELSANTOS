@@ -11,12 +11,19 @@
 
 # Sobre❤️
 
-I've always been curious about the programming area, but I was afraid to start with the things I listened to and the financial condition too, I had my first computer when I was 16 and that's when I started digging lol but it didn't last long because it broke hahaha so most of the In my time I was watching videos about programming on my cell phone, but I had never had direct contact with codes, not to mention that I didn't understand anything either. After a long time I got a job and decided to start studying Systems Analysis and Development, even without having a computer I decided to take action and from then on my life took a turn through this initiative I created the courage to go after other alternatives and not to mention the friendships I made with wonderful people. That's when proa appeared, an institution that teaches Java web development and for me it was the best place I could find, there I started to get to know real programming and got even more taste for technology, in proa I developed wonderful personal skills that I I didn't know I was able to do it literally changed my life, and since then I've been discovering a little more about this wonderful area, I like the opportunity that this technology offers people, and the proposal to make life easier unfortunately knowledge is something that not everyone it has access but how much I learn I have to pass on to me every learning in this area is surreal and too good to just keep to myself.
+
+
+Let's have a coffee, I'm always open to learning new things and discussing crazy ideas. ds5826391@gmail.com
 
 Let's have a coffee, I'm always open to learning new things and discussing crazy ideas. ds5826391@gmail.com
 
 The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
 
+Sempre tive curiosidade pela área da programação, mas tinha medo de começar pelas coisas que eu escutava e pela condição financeira também, tive meu primeiro computador aos 16 anos e foi quando comecei a fuçar rsrs mas não durou muito tempo porque pifou kkkkk então maior parte do meu tempo eu ficava vendo videos sobre programação pelo celular, mas nunca tinha tido um contato direto com códigos sem contar que eu não entendia nada também. Depois de um bom tempo consegui um emprego e resolvi começar a faculdade de Análise e desenvolvimento de Sistemas, mesmo sem ter um computador eu resolvi tomar uma atitude e dai em diante minha vida deu uma reviravolta através dessa iniciativa criei coragem para ir atrás de outras alternativas e sem contar nas amizades que fiz com pessoas maravilhosas. Foi ai que apareceu o proa, uma instituição que ensina desenvolvimento web Java e para mim foi o melhor lugar que pude encontrar, ai que comecei a conhecer programação de verdade e peguei mais gosto ainda pela tecnologia, no proa eu desenvolvi habilidades pessoais maravilhosas que eu não sabia que era capaz de fazer literalmente mudou minha vida, e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que essa tecnologia oferece às pessoas, e a proposta de facilitar a vida infelizmente o conhecimento é algo que nem todos tem acesso mas o quanto eu aprendo temto repassar psra mim kada aprendizado nessa área e surreal e muito bom para ficar só guardado para mim.
+
+##
+
+Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. ds5826391@gmail.com
 
 -📱Hoje trabalho como tecnico de celulares
 

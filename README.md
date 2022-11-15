@@ -15,7 +15,7 @@ I've always been curious about the programming area, but I was afraid to start w
 
 ### If you want to transform the world, try first promoting your personal improvement and making innovations within yourself..- Dalai Lama
 
-Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. ds5826391@gmail.com
+Let's have a coffee, I'm always open to learning new things and discussing crazy ideas. ds5826391@gmail.com
 
 -📱Hoje trabalho como tecnico de celulares
 

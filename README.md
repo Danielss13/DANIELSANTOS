@@ -11,6 +11,8 @@
 
 # Sobre❤️
 
+I was always curious about the programming area, but I was afraid to start with things I heard and my financial condition too. I had my first computer when I was 16, that's when I started digging around lol, but it didn't last long because it broke hahaha. So most of the time I watched programming videos on my cell phone, but I never had direct contact with codes, not to mention that I didn't understand anything about it. After a while, I got a job and started studying Systems Analysis and Development, even though I didn't have a computer. From that attitude, my life took a great step forward, I created the courage to pursue other alternatives, not to mention the friendships I made with wonderful people who helped me in this process. That's when I met proa, an institution that teaches Java web development, and for me it was the best place I found, where I got to know real programming and had even more desire to be in the technology field. On the bow I developed wonderful personal skills that I didn't know I was capable of, it literally changed my life, and since then I've been discovering more and more about this wonderful area. I like the opportunity that this technology offers people, and the proposal to make life easier, unfortunately knowledge is something that not everyone has access to, but all the knowledge I've been acquiring I try to pass on to other people who are interested, because all the learning in this area is excellent and has to be shared.
+
 
 
 ### If you want to transform the world, try first promoting your personal improvement and making innovations within yourself..- Dalai Lama
